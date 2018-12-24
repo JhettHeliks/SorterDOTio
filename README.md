@@ -1,2 +1,2 @@
 # SorterDOTio
-It sorts Videos,EXE,Torrents,Compressed Files, and Images.
+It sorts Videos, EXE, Torrents, Compressed Files, and Images.
